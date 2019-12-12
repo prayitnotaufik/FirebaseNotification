@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "520312444561",
+    "firebase_url": "https://taufik-androidfirebase.firebaseio.com",
+    "project_id": "taufik-androidfirebase",
+    "storage_bucket": "taufik-androidfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520312444561:android:7301fd41b4d5b792c19130",
+        "android_client_info": {
+          "package_name": "com.example.firebasenotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520312444561-7tip7tc3lf4rg9poasf08h4susah9fh1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebasenotification",
+            "certificate_hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+          }
+        },
+        {
+          "client_id": "520312444561-5gq99960or14u1v9ic4b8lpo1eohp174.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAioLSKlpQkBmQWY3xEXNFb_bn3HlXdHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520312444561-5gq99960or14u1v9ic4b8lpo1eohp174.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
